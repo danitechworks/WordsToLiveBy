@@ -83,6 +83,12 @@ body {
     margin-top: 1rem;
   }
 
+  .btn:active {
+    background-color: #f5f9ff;
+    transform: scale(0.98);
+    box-shadow: 0 2px 8px rgba(41, 71, 95, 0.3);
+  }
+
   .quote {
     font-size: 1.4rem;
   }
