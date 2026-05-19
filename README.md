@@ -30,7 +30,7 @@ A minimalist quote generator web application that displays random inspirational 
 ## Live Demo
 
 The project is live and published at:  
-**http://dannellbayer.com/WordsToLiveBy/**
+**https://dannellbayer.com/WordsToLiveBy/**
 
 ## How to Run
 
