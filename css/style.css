@@ -68,3 +68,26 @@ body {
   margin-right: 16px;
   font-size: 1.7rem;
 }
+
+@media (max-width: 600px) {
+  .main-content {
+    width: 90%;
+    height: auto;
+  }
+
+  .header {
+    font-size: 2rem;
+  }
+
+  .btn {
+    margin-top: 1rem;
+  }
+
+  .quote {
+    font-size: 1.4rem;
+  }
+
+  .person {
+    font-size: 1.2rem;
+  }
+}
