@@ -1,6 +1,6 @@
 # Quote Generator
 
-A minimalist quote generator web application that displays random inspirational quotes from notable figures throughout history. Built with vanilla JavaScript, HTML, and CSS.
+A minimalist quote generator web application that displays random inspirational quotes from notable figures throughout history. Built with vanilla JavaScript, HTML, and CSS as an early school project focused on learning core web development and front-end programming fundamentals.
 
 ## Features
 
